@@ -267,12 +267,6 @@ Through this project, I learned:
 - Improve dashboard interactivity.
 - Explore automated pipeline scheduling.
 
-## 15. Author
 
-**Sandhya Rani Lingampelly**
-
-Aspiring Data Analyst | Data Engineering & Analytics
-
-**Skills:** SQL | Python | Power BI | Excel | Databricks
 
 
